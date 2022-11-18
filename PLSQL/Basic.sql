@@ -371,4 +371,3 @@ begin
         )';
     execute immediate table_name;
 end;
-
